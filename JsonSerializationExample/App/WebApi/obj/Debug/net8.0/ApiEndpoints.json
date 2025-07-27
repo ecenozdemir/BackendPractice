@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.UsrController",
+    "Method": "Google",
+    "RelativePath": "api/Usr",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UsrController",
+    "Method": "GetWeatherLocal",
+    "RelativePath": "api/Usr/get-weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UsrController",
+    "Method": "GetWeatherWithAction",
+    "RelativePath": "api/Usr/get-weather-with-action",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
